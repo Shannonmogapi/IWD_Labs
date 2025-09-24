@@ -1,0 +1,28 @@
+h1 {
+    font-size: 2em;
+    text-align: center;
+    color: #b7209e;
+    background-color: #040303;
+    padding: 10px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color: #000000;   
+}
+
+img {
+    max-width: 60%;
+    display: block;
+    margin: 0 auto;
+}
+article{
+    margin-top: 20px;
+    border: 2px solid #824ee4;
+    padding: 15px;
+    background-color: #f5f5f5;
+}
+square-bulletes {
+    list-style-type: square;
+}
